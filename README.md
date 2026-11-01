@@ -33,6 +33,7 @@ Dataset mentah yang digunakan diperoleh dari Kaggle:
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## 📁 Keterangan Dataset & Folder Hasil Preprocessing
 
